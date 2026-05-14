@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\User\\\\Documents\\\\UNI\\\\Sexto Semestre\\\\Machine Learning\\\\Proyecto\\\\Proyecto_2-ML\\\\.claude\\\\worktrees\\\\laughing-haslett-7f155c\" -Recurse -Force)",
+      "Bash(Select-Object -Property FullName, PSIsContainer)",
+      "Bash(Sort-Object FullName)",
+      "Bash(Format-Table -AutoSize)",
+      "PowerShell(head -200)"
+    ]
+  }
+}
