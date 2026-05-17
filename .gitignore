@@ -2,3 +2,6 @@
 /.venv312
 /.venv_ml
 /process
+/modelBETO
+/model
+/embeddings
