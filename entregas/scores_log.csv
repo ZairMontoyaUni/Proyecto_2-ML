@@ -1,0 +1,3 @@
+modelo,f1_macro_val,supera_umbral,timestamp,extra
+tfidf_logreg,0.2584,False,2026-05-19T20:52:32.401390,
+tfidf_logreg,0.2584,False,2026-05-19T21:07:57.085932,
